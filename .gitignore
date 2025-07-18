@@ -1,2 +1,3 @@
 ubuntu-rootfs/*
 *.tar.gz
+*.img
